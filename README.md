@@ -1,8 +1,6 @@
 # Bank-Application
 
 
-# Insurance Management System
-
 Bank Application is a Web Application developed using Spring MVC,JPA, and for Database i used MYSQL. The goal of the application is to Credit Ans debit Opearation their customers.
 
 ## Modules
