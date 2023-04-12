@@ -17,7 +17,7 @@ Bank Application is a Web Application developed using Spring MVC,JPA, and for Da
 ```
     2.Create MYSQL database
 ```bash
-    Create database Insurance
+    Create database Bank
 ```  
     3.Open Application IntelliJ,Eclipse.
 
